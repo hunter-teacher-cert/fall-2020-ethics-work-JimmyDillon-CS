@@ -2,12 +2,18 @@
 # Aug 2020
 
 def factorial(n):
-    return 1
+    if (n<=1):
+        return 1
+    else:
+        return n * factorial(n-1)
 
 def fib(n):
-    return 1
+    if (n>1):
+        return fib(n-1) + fib(n-2)
+    else:
+        return 1
 
 print("Good News Everyone!")
-print(f"1! = {factorial(1)}" )
-print(f"fib(1) = {fib(1)}" )
-
+for x in range(0,10):
+    print(str(x) + "! = " + str(factorial(x)) )
+    print("fib(" + str(x) + ") = " + str(fib(x)) )
