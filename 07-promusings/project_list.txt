@@ -1,0 +1,8 @@
+1. Digital Divide, specifically NYC Mesh Project
+  Seriously considering changing my ISP from Optimum to NYC Mesh. I believe I'm in sight of a supernode, which would mean my speed would be fast? It was hard to find a good answer for this on their website or google. It'd save me a bunch of money and I like the idea of climate-proof(ish) internet solution and crowd sourcing a utility. Hi-speed local government provided internet has been regularly defeated by large ISPs in other states. Just realized I'm approaching this project from a consumer perspective and now I'm feeling very basic.
+
+2. Net Neutrality
+  Interested in the idea of packaging the internet, although I worry that I'm too biased in my support for NN.
+
+3. Decentralized Computing
+  Super interesting ideas here. Removing the cloud without removing the ability to collaborate or share. The guts this guy has to write an article like this during the pandemic is impressive! I think this would also allow me to show some program-based solutions as well.
